@@ -3,12 +3,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 from itertools import accumulate
-import matplotlib.dates as mdates
-import seaborn as ns
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
-import plotly.graph_objs as go
 import plotly.express as px
 from dash.dependencies import Input, Output
 
