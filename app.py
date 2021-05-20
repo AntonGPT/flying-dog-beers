@@ -167,8 +167,8 @@ def slucifer(dage=4, scale=1, hurdle=10,obs_pr_dag=48):
                         loss_days.append(datasaet.spot_imb[index] * -1)
 
 
-if __name__ == '__main__': 
-    app.run_server(debug=True)
+#if __name__ == '__main__': 
+#    app.run_server(debug=True)
 #print(datasaet.columns)
 #datasaet.info()
 #print(datasaet.head())
